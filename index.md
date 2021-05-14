@@ -25,7 +25,7 @@
 								<ol>						
 										<i> 
 											<b>
-												<li>Son adorables </i>
+												<li>Son adorables</i>
 											</b>
 										<br>
 											Quien no se resiste a tocar un gato que es muy bonito?<br> <img style="border: 1px solid; color: black;" src="https://cdn.pixabay.com/photo/2019/06/09/12/56/cat-4262034_1280.jpg" alt="" width="25%" height="25%" align="center"></li>
